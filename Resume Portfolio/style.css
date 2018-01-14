@@ -1,0 +1,178 @@
+body {
+  background-color: #1d1d1d;
+}
+
+.container {
+  max-width:1000px;
+}
+
+.row-one {
+  background-color: #383838;
+  color:white;
+}
+
+.row-two {
+  padding: 25px 0 25px 0;
+  background-color: #383838;
+
+}
+
+.row-three {
+  padding: 25px 0 25px 0;
+  background-color: #383838;
+  text-align: center;
+}
+.row-four {
+  background-color: #383838;
+  margin-top:1px;
+  color:white;
+}
+.row-five {
+  background-color: #383838;
+  margin-top:1px;
+  color:white;
+}
+.row-six {
+  background-color: #383838;
+  margin-top:1px;
+  color:white;
+}
+.contacts {
+  color: gray;
+}
+.port {
+  color: gray;
+}
+.resume {
+color: gray;
+font-weight: bold;
+}
+
+.resume-text {
+  font-weight: bold;
+}
+.portfolio-text {
+  font-weight: bold;
+}
+.contacts-text {
+  font-weight: bold;
+}
+
+.col-1 {
+  text-align: center;
+  background-color: #4ca5d0;
+  color: white;
+}
+
+.col-1-1 {
+}
+
+.col-2 {
+}
+
+.col-2-1 {
+}
+.col-2-2 {
+  text-align: left;
+}
+
+pre {
+  font-family: sans-serif;
+  background-color: transparent;
+  border: none;
+  color: white;
+  font-size: 2.5vh;
+}
+
+ .name {
+  color:aqua;
+}
+
+.name2 {
+  color: white;
+  text-align: right;
+}
+
+.col-3 {
+background-color: #3d3d3d;
+color:white;
+}
+
+/*arrow*/
+
+.arrow-one {
+  font-size: 60px;
+  background-color: #383838;
+  margin-top: 5px;
+  color: aqua;
+}
+
+/*row*/
+.row-one {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+
+/*Resume*/
+#resume {
+  display: none;
+  background-color: #383838;
+}
+
+.dxc {
+  color: gray;
+}
+
+.columban {
+  color:gray;
+}
+
+.education {
+  color: black;
+}
+
+.skills {
+  text-align: center;
+}
+
+.employment {
+  background-color: gray;
+}
+
+.prog {
+  background-color: gray;
+}
+
+.hov:hover {
+  background-color: tomato;
+}
+
+.education {
+  background-color: gray;
+}
+
+/*Portfolio*/
+.portfolio {
+  display: none;
+}
+
+.portfolio2 {
+  background-color: #383838;
+}
+/*contacts*/
+.last {
+  display: none;
+}
+
+.let {
+  background-color: gray;
+}
+
+/*DEV*/
+.dev {
+  padding:0px 0px;
+  margin: 0px 0px;
+  height: auto;
+  text-align: center;
+}
